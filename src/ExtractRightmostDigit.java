@@ -1,8 +1,9 @@
 import java.util.Scanner;
-/* Asks the user for an integer.
-   Asks the user for the number of digits to extract.
-   Prints the extracted digits.
-*/
+/**
+ * Asks the user for an integer.
+ * Asks the user for the number of digits to extract.
+ * Prints the extracted digits.
+ */
 public class ExtractRightmostDigit {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
